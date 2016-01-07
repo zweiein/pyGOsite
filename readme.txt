@@ -1,3 +1,11 @@
+Required tools
+——-
+* lxml
+* [inflect 0.2.5](https://pypi.python.org/pypi/inflect)
+
+
+How to use
+——-
 python -m CGIHTTPServer
 
-your-ip:8000/index.html
+localhost:8000/index.html
