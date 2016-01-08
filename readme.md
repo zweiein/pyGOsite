@@ -1,4 +1,4 @@
-This is a simple web server in Python
+a Python search engine based on Gene Ontology database
 
 Required tools
 =============
